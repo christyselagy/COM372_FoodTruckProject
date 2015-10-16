@@ -1,0 +1,89 @@
+#list1 {
+  list-style: none;
+  padding-left: 340px;
+  top: 0;
+  position: absolute;
+}
+
+#list1 li{
+  display: inline;
+  padding: 10px;
+  margin: 150px;
+  margin-left: 70px;
+  background-color: white;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 90px;
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+#background1 {
+  background-image: url("Images/DarkRedKidney.jpg");
+  height: 799px;
+  color: white;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#background3 {
+  background-image: url("Images/Dried_red_lentil.JPG");
+  height: 799px;
+  color: black;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#background2 {
+  background-image: url("Images/BlackEyedPeas.JPG");
+  height: 799px;
+  color: black;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#background4 {
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+
+#menuitem {
+  color: white;
+  font-weight: 700;
+}
+
+#float1 {
+  float: left;
+  width: 47%;
+  padding: 1em;
+}
+
+#float2 {
+  float: right;
+  width: 47%;
+  padding: 1em;
+}
+
+#float3 {
+  width: 47%;
+  padding: 1em;
+  float: right;
+}
+
+#float4 {
+  width: 47%;
+  padding: 1em;
+}
